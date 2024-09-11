@@ -3,12 +3,12 @@
 body {
     font-family: 'Open-sans', sans-serif;
     background-color: #F5F4F0;
-    padding: 65px;
 }
 
 .container {
     box-sizing: border-box;
     width: 1120px;
+    margin: 0 auto;
 }
 
 #busan {
