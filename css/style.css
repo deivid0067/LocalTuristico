@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body {
+    font-family: 'Open-sans', sans-serif;
+    background-color: #F5F4F0;
+    padding: 65px;
+}
+
+.container {
+    box-sizing: border-box;
+    width: 1120px;
+}
+
+#busan {
+    margin-top: 4px;
+    border-bottom: 1px solid #D9D9D9; 
+    margin-bottom: 64px; 
+}
+
+#busan span {
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #E1624F;
+    font-weight: bold;
+}
+
+#busan h1 {
+    font-size: 36px;
+    color: #1B1B1B;
+}
+
+#busan img {
+    border-radius: 16px;
+    width: 100%;
+    padding: 4px 0 4px 0;
+}
+
+#busan p {
+    text-align: center;
+    font-style: italic;
+    font-size: 16px;
+}
+
+
+.curiosidades {
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #E1624F;
+    font-weight: bold;
+}
+
+#historia {
+    border-bottom: 1px solid #D9D9D9;
+}
+
+#historia h2 {
+    color: #1B1B1B;
+    font-size: 32px;
+}
+
+
+.paragrafo-historia {
+    font-size: 16px;
+    margin-bottom: 64px;
+}
+
+#historia img {
+    width: 1120px;
+    height: 350px;
+    border-radius: 28px;
+    object-fit: cover;
+}
+
+h3 {
+    font-size: 28px;
+}
+
+ul{
+    padding: 0px 0px 0px 18px; 
+    margin: 4px 0px 40px 0px;
+}
+
+.recomendacao {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.haedong li {
+    color: #0C51A7;
+    font-weight: bold;
+}
+
+.beomeo {
+    margin-top: 48px;
+}
+
+.beomeo li {
+    color: #0C51A7;
+    font-weight: bold;
+}
+
+.yongdusan {
+    margin-top: 48px;
+}
+
+.casais {
+    font-weight: bold;
+    color: #591B98;
+}
+
+.familias {
+    font-weight: bold;
+    color: #E5245E;
+}
+
+.orcamento {
+    font-weight: bold;
+    color: #E95E10;
+}
+
+.encerramento {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    margin-top: 64px;
+}
